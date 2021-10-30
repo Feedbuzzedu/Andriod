@@ -7,7 +7,7 @@ This roadmap is a suggested set of topics you need to learn Android to become An
 # How to study Android ⁉️
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ermolnik/android_roadmap/main/android%20academy.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/mrgoogleboy_/android_roadmap/main/android%20academy.jpeg" width="400">
   </p>
 
 * Android Academy Cources in [YouTube](https://www.youtube.com/playlist?list=PLjLCGE4bVpHCJvtGpEVl-4IYGHB1A8FCc)
@@ -15,10 +15,12 @@ This roadmap is a suggested set of topics you need to learn Android to become An
 * Workshops in [GitHub](https://github.com/Android-Academy-Global/fundamentals-2020-assignments)
 * Homeworks in [GitHub](https://github.com/Android-Academy-Global/fundamentals-2020-homework)
 
+Roadmap in [Miro](https://miro.com/app/board/o9J_lpg8J8U=/)
+![Android Roadmap](https://github.com/ermolnik/android_roadmap/blob/main/Android%20Roadmap.png)
 
 # Contribute 📚
 
-If you want to contribute to roadmap, please write me — [in Telegram](http://t.me/feedbuzzme)
+If you want to contribute to roadmap, please write on — [in Telegram](http://t.me/feedbuzzbot)
 
 ## License ℹ️
 
