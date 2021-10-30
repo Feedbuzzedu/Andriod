@@ -15,12 +15,10 @@ This roadmap is a suggested set of topics you need to learn Android to become An
 * Workshops in [GitHub](https://github.com/Android-Academy-Global/fundamentals-2020-assignments)
 * Homeworks in [GitHub](https://github.com/Android-Academy-Global/fundamentals-2020-homework)
 
-Roadmap in [Miro](https://miro.com/app/board/o9J_lpg8J8U=/)
-![Android Roadmap](https://github.com/ermolnik/android_roadmap/blob/main/Android%20Roadmap.png)
 
 # Contribute 📚
 
-If you want to contribute to roadmap, please write me — [in Telegram](http://t.me/ermolnik)
+If you want to contribute to roadmap, please write me — [in Telegram](http://t.me/feedbuzzme)
 
 ## License ℹ️
 
